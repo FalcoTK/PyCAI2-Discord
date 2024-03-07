@@ -1,2 +1,1 @@
-# PyCAI2-Discord
-here is an example of using PyCAI2 for a discord bot
+## THIS IS EXAMPLE OF USING PYCAI2 FOR A BOT DISCORD
