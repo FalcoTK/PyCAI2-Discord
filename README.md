@@ -6,7 +6,7 @@ pip install PyCAI2 discord
 ```
 then git clone this repo
 ```
-git clone
+git clone https://github.com/FalcoTK/PyCAI2-Discord.git
 ```
 
 # settings 
