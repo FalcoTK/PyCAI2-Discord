@@ -10,6 +10,9 @@ git clone https://github.com/FalcoTK/PyCAI2-Discord.git
 ```
 
 # settings 
+you can see how to get the bot token here : https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+
+to set up cai here : https://github.com/FalcoTK/PyCAI2?tab=readme-ov-file
 ```
 token_discord = "<DISCORD BOT TOKEN>"
 
